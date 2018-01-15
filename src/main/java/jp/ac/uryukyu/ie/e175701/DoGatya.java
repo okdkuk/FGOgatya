@@ -1,7 +1,10 @@
 package jp.ac.uryukyu.ie.e175701;
 
 public class DoGatya {
-    public static void main(String arms){
+
+
+
+    public void DoGtya(){
             int ran = (int)(Math.random()*100);
 
         if (ran == 0){
@@ -74,7 +77,7 @@ public class DoGatya {
             System.out.println("☆☆☆☆ 礼装 ");
         }
         else{
-            System.out.println("☆☆☆☆ 礼装");
+            System.out.println("☆☆☆ 礼装");
         }
 
 
