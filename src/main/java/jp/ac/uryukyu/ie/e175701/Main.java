@@ -8,5 +8,6 @@ public class Main {
         DoGatya doGatya = new DoGatya();
         for(int i = 0; i < 10 ; i++)
         doGatya.DoGtya();
+        ///十回繰り返す。
     }
 }
